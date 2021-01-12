@@ -14,4 +14,5 @@ A collection of modern/faster/saner alternatives to common command line apps and
 * [bottom](https://github.com/ClementTsang/bottom) — Yet another cross-platform graphical process/system monitor heavily inspired by `htop`.
 * [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of `tldr` in Rust.
 * [rmesg](https://github.com/polyverse/rmesg) — A `dmesg` implementation in Rust.
+* [ox](https://github.com/curlpipe/ox) — An independent Rust text editor inspired by `vim`, `nano`, and `emacs`.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
