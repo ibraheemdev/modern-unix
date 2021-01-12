@@ -15,7 +15,6 @@ A curates list of modern/faster/saner alternatives to common unix tools and util
 * [httpie](https://github.com/httpie/httpie) — A modern, user-friendly command-line HTTP client for the API era.
 * [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of `tldr` in Rust.
 * [tokie](https://github.com/XAMPPRocky/tokei) — Count your code, quickly. 
-* [rmesg](https://github.com/polyverse/rmesg) — A `dmesg` implementation in Rust.
 * [neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability.
 * [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
