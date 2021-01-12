@@ -1,6 +1,6 @@
 # Modern Unix
 
-A curates list of modern/faster/saner alternatives to common unix tools and utilities
+A collection of modern/faster/saner alternatives to common unix tools and utilities.
 
 * [bat](https://github.com/sharkdp/bat) — A `cat` clone with wings.
 * [coreutils](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
