@@ -6,6 +6,7 @@ A curates list of modern/faster/saner alternatives to common unix tools and util
 * [coreutils](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
 * [exa](https://github.com/ogham/exa) — A modern replacement for `ls`.
 * [fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to `find`.
+* [jq](https://github.com/stedolan/jq) — A lightweight and flexible command-line JSON processor like `sed` for JSON data 
 * [procs](https://github.com/dalance/procs) — A modern replacement for `ps`.
 * [pet](https://github.com/knqyf263/pet) — A simple command-line snippet manager, written in Go.
 * [peco](https://github.com/peco/peco) — A simplistic interactive filtering tool 
