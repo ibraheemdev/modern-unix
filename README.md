@@ -6,6 +6,7 @@ A collection of modern/faster/saner alternatives to common apps and tools, writt
 
 * [bat](https://github.com/sharkdp/bat) — A `cat` clone with wings.
 * [coreutils](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
+* [cicada](https://github.com/mitnk/cicada) — A `bash` like Unix shell written in Rust 
 * [exa](https://github.com/ogham/exa) — A modern replacement for `ls`.
 * [fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to `find`.
 * [procs](https://github.com/dalance/procs) — A modern replacement for `ps`.
