@@ -2,7 +2,7 @@
 
 A collection of modern/faster/saner alternatives to common unix tools and utilities.
 
-## `ls`
+## File Listing
 
 * [exa](https://github.com/ogham/exa) — A modern replacement for `ls`.
 * [lsd](https://github.com/Peltoche/lsd) — The next gen `ls` command.
