@@ -29,6 +29,18 @@ A collection of modern/faster/saner alternatives or complements to common unix c
 * [`tldr`](https://github.com/tldr-pages/tldr) — A community effort to simplify man pages with practical examples. 
 * [`tealdeer`](https://github.com/dbrgn/tealdeer) — A very fast implementation of `tldr` in Rust.
 
+## System Info
+
+* [`bottom`](https://github.com/ClementTsang/bottom) — Yet another cross-platform graphical process/system monitor. 
+* [`glances`](https://github.com/nicolargo/glances) — Glances an Eye on your system. A `top` and `htop` alternative.
+* [`gtop`](https://github.com/aksakalli/gtop) — System monitoring dashboard for terminal.
+* [`procs`](https://github.com/dalance/procs) — A modern replacement for `ps`.
+
+## HTTP Clients
+
+* [`curlie`](https://github.com/rs/curlie) — The power of `curl`, the ease of use of `httpie`. 
+* [`httpie`](https://github.com/httpie/httpie) — A modern, user-friendly command-line HTTP client for the API era.
+
 ## `cat`
 
 * [`bat`](https://github.com/sharkdp/bat) — A `cat` clone with wings.
@@ -37,18 +49,6 @@ A collection of modern/faster/saner alternatives or complements to common unix c
 
 * [`zoxide`](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
 
-## System Info
-
-* [`bottom`](https://github.com/ClementTsang/bottom) — Yet another cross-platform graphical process/system monitor. 
-* [`glances`](https://github.com/nicolargo/glances) — Glances an Eye on your system. A `top` and `htop` alternative.
-* [`gtop`](https://github.com/aksakalli/gtop) — System monitoring dashboard for terminal.
-* [`procs`](https://github.com/dalance/procs) — A modern replacement for `ps`.
-
-## `curl`
-
-* [`curlie`](https://github.com/rs/curlie) — The power of curl, the ease of use of httpie. 
-* [`httpie`](https://github.com/httpie/httpie) — A modern, user-friendly command-line HTTP client for the API era.
-
-## Other
+## Core Utils
 
 * [`coreutils`](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
