@@ -17,6 +17,6 @@ A collection of modern/faster/saner alternatives to common unix tools and utilit
 * [httpie](https://github.com/httpie/httpie) — A modern, user-friendly command-line HTTP client for the API era.
 * [tldr](https://github.com/tldr-pages/tldr) — A community effort to simplify man pages with practical examples. 
 * [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of `tldr` in Rust.
-* [tokie](https://github.com/XAMPPRocky/tokei) — Count your code, quickly. 
+* [tokie](https://github.com/XAMPPRocky/tokei) — Count your code, quickly. A faster and more accurate alternative to `cloc`.
 * [neovim](https://github.com/neovim/neovim) — A `vim` fork focused on extensibility and usability.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
