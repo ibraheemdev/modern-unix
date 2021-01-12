@@ -14,11 +14,13 @@ A collection of modern/faster/saner alternatives or complements to common unix c
 
 * [ag](https://github.com/ggreer/the_silver_searcher) — A code-searching tool similar to `ack`, but faster.
 * [ack](https://github.com/beyondgrep/ack3) — A `grep` like search tool optimized for source code.
-* [ripgrep](https://github.com/BurntSushi/ripgrep) — An extremely fast alternative to `grep` that respects your gitignore. 
+* [ripgrep](https://github.com/BurntSushi/ripgrep) — An extremely fast alternative to `grep` that respects your gitignore.
+* [fzf](https://github.com/junegunn/fzf) — A command-line fuzzy finder.
 
 ## Text Processing
 
-* [choose](https://github.com/theryangeary/choose) — A human-friendly and fast alternative to `cut` and (sometimes) `awk` 
+* [choose](https://github.com/theryangeary/choose) — A human-friendly and fast alternative to `cut` and (sometimes) `awk`.
+* [jq](https://github.com/stedolan/jq) — `sed` for JSON data.
 * [sd](https://github.com/chmln/sd) — An intuitive find & replace CLI (`sed` alternative).
 
 ## `man`
