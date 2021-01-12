@@ -5,6 +5,7 @@ A collection of modern/faster/saner alternatives to common unix tools and utilit
 ## File Listing
 
 * [exa](https://github.com/ogham/exa) — A modern replacement for `ls`.
+* [dust](https://github.com/bootandy/dust) — A more intuitive version of `du` in rust.
 * [lsd](https://github.com/Peltoche/lsd) — The next gen `ls` command.
 * [broot](https://github.com/Canop/broot) — A modern alternative to `tree`.
 * [fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to `find`.
@@ -33,19 +34,12 @@ A collection of modern/faster/saner alternatives to common unix tools and utilit
 
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
 
-## `ps`
-
-* [procs](https://github.com/dalance/procs) — A modern replacement for `ps`.
-
-## `du`
-
-* [dust](https://github.com/bootandy/dust) — A more intuitive version of `du` in rust.
-
-## `top`
+## System Info
 
 * [bottom](https://github.com/ClementTsang/bottom) — Yet another cross-platform graphical process/system monitor. 
 * [glances](https://github.com/nicolargo/glances) — Glances an Eye on your system. A `top` and `htop` alternative.
 * [gtop](https://github.com/aksakalli/gtop) — System monitoring dashboard for terminal.
+* [procs](https://github.com/dalance/procs) — A modern replacement for `ps`.
 
 ## `curl`
 
