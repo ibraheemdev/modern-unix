@@ -3,6 +3,7 @@
 A collection of modern/faster/saner alternatives to common unix tools and utilities.
 
 * [bat](https://github.com/sharkdp/bat) — A `cat` clone with wings.
+* [broot](https://github.com/Canop/broot) — A modern alternative to `tree`.
 * [coreutils](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
 * [exa](https://github.com/ogham/exa) — A modern replacement for `ls`.
 * [fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to `find`.
