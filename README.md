@@ -16,7 +16,7 @@ A collection of modern/faster/saner alternatives to common unix tools and utilit
 * [ack](https://github.com/beyondgrep/ack3) — A `grep` like search tool optimized for source code.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) — An extremely fast alternative to `grep` that respects your gitignore. 
 
-## Text Proccessing
+## Text Processing
 
 * [choose](https://github.com/theryangeary/choose) — A human-friendly and fast alternative to `cut` and (sometimes) `awk` 
 * [sd](https://github.com/chmln/sd) — An intuitive find & replace CLI (`sed` alternative).
