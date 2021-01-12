@@ -23,8 +23,9 @@ A collection of modern/faster/saner alternatives or complements to common unix c
 * [jq](https://github.com/stedolan/jq) — `sed` for JSON data.
 * [sd](https://github.com/chmln/sd) — An intuitive find & replace CLI (`sed` alternative).
 
-## `man`
+## Man Pages
 
+* [cheat](https://github.com/cheat/cheat) — Create and view interactive cheatsheets on the command-line.
 * [tldr](https://github.com/tldr-pages/tldr) — A community effort to simplify man pages with practical examples. 
 * [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of `tldr` in Rust.
 
