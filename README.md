@@ -18,4 +18,5 @@ A collection of modern/faster/saner alternatives to common apps and tools, writt
 * [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of `tldr` in Rust.
 * [rmesg](https://github.com/polyverse/rmesg) — A `dmesg` implementation in Rust.
 * [ox](https://github.com/curlpipe/ox) — An independent Rust text editor inspired by `vim`, `nano`, and `emacs`.
+* [just](https://github.com/casey/just) — Just a command runner, inspired by `make`.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
