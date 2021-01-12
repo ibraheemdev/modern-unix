@@ -1,6 +1,8 @@
-# Modern Command Line Alternatives
+# Rewritten In Rust
 
-A collection of modern/faster/saner alternatives to common command line apps and tools, written in Rust.
+A collection of modern/faster/saner alternatives to common apps and tools, written in Rust.
+
+## Command Line Tools
 
 * [bat](https://github.com/sharkdp/bat) — A `cat` clone with wings.
 * [coreutils](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
