@@ -16,4 +16,5 @@ A curates list of modern/faster/saner alternatives to common unix tools and util
 * [tokie](https://github.com/XAMPPRocky/tokei) — Count your code, quickly. 
 * [rmesg](https://github.com/polyverse/rmesg) — A `dmesg` implementation in Rust.
 * [neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability.
+* [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
