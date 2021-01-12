@@ -13,6 +13,7 @@ A curates list of modern/faster/saner alternatives to common unix tools and util
 * [ripgrep](https://github.com/BurntSushi/ripgrep) — An extremely fast alternative to `grep` that respects your gitignore.
 * [hyperfine](https://github.com/sharkdp/hyperfine) — A command-line benchmarking tool inspired by `bench`
 * [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of `tldr` in Rust.
+* [tokie](https://github.com/XAMPPRocky/tokei) — Count your code, quickly. 
 * [rmesg](https://github.com/polyverse/rmesg) — A `dmesg` implementation in Rust.
-* [neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability 
+* [neovim](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
