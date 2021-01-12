@@ -15,6 +15,11 @@ A collection of modern/faster/saner alternatives to common unix tools and utilit
 * [ack](https://github.com/beyondgrep/ack3) — A `grep` like search tool optimized for source code.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) — An extremely fast alternative to `grep` that respects your gitignore. 
 
+## Text Proccessing
+
+* [choose](https://github.com/theryangeary/choose) — A human-friendly and fast alternative to `cut` and (sometimes) `awk` 
+* [sd](https://github.com/chmln/sd) — An intuitive find & replace CLI (`sed` alternative).
+
 ## `man`
 
 * [tldr](https://github.com/tldr-pages/tldr) — A community effort to simplify man pages with practical examples. 
@@ -41,11 +46,6 @@ A collection of modern/faster/saner alternatives to common unix tools and utilit
 * [bottom](https://github.com/ClementTsang/bottom) — Yet another cross-platform graphical process/system monitor. 
 * [glances](https://github.com/nicolargo/glances) — Glances an Eye on your system. A `top` and `htop` alternative.
 * [gtop](https://github.com/aksakalli/gtop) — System monitoring dashboard for terminal.
-
-## `sed` / `awk`
-
-* [choose](https://github.com/theryangeary/choose) — A human-friendly and fast alternative to `cut` and (sometimes) `awk` 
-* [sd](https://github.com/chmln/sd) — An intuitive find & replace CLI (`sed` alternative).
 
 ## `curl`
 
