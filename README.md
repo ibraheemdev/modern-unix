@@ -45,10 +45,12 @@ A collection of modern/faster/saner alternatives or complements to common unix c
 
 * [`bat`](https://github.com/sharkdp/bat) — A `cat` clone with wings.
 
-## `cd`
+## Filesystem Navigation
 
+* [`autojump`](https://github.com/wting/autojump) — A `cd` command that learns.
+* [`z.lua`](https://github.com/skywind3000/z.lua) — A new `cd` command that helps you navigate faster by learning your habits.
 * [`zoxide`](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
 
 ## Core Utils
 
-* [`coreutils`](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
+* [`uutils`](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
