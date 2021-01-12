@@ -18,5 +18,4 @@ A collection of modern/faster/saner alternatives to common unix tools and utilit
 * [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of `tldr` in Rust.
 * [tokie](https://github.com/XAMPPRocky/tokei) — Count your code, quickly. 
 * [neovim](https://github.com/neovim/neovim) — A `vim` fork focused on extensibility and usability.
-* [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
