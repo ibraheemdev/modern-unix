@@ -9,7 +9,7 @@ A collection of modern/faster/saner alternatives to common unix tools and utilit
 * [broot](https://github.com/Canop/broot) — A modern alternative to `tree`.
 * [fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to `find`.
 
-## `grep`
+## Text Search
 
 * [ag](https://github.com/ggreer/the_silver_searcher) — A code-searching tool similar to `ack`, but faster.
 * [ack](https://github.com/beyondgrep/ack3) — A `grep` like search tool optimized for source code.
