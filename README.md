@@ -4,6 +4,7 @@ A collection of modern/faster/saner alternatives or complements to common unix c
 
 ## File Listing
 
+* [`bat`](https://github.com/sharkdp/bat) — A `cat` clone with wings.
 * [`exa`](https://github.com/ogham/exa) — A modern replacement for `ls`.
 * [`dust`](https://github.com/bootandy/dust) — A more intuitive version of `du` in rust.
 * [`lsd`](https://github.com/Peltoche/lsd) — The next gen `ls` command.
@@ -40,10 +41,6 @@ A collection of modern/faster/saner alternatives or complements to common unix c
 
 * [`curlie`](https://github.com/rs/curlie) — The power of `curl`, the ease of use of `httpie`. 
 * [`httpie`](https://github.com/httpie/httpie) — A modern, user-friendly command-line HTTP client for the API era.
-
-## `cat`
-
-* [`bat`](https://github.com/sharkdp/bat) — A `cat` clone with wings.
 
 ## Filesystem Navigation
 
