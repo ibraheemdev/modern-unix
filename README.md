@@ -38,7 +38,6 @@ A collection of modern/faster/saner alternatives or complements to common unix c
 
 ## HTTP Clients
 
-* [`curlie`](https://github.com/rs/curlie) — The power of `curl`, the ease of use of `httpie`. 
 * [`httpie`](https://github.com/httpie/httpie) — A modern, user-friendly command-line HTTP client for the API era.
 
 ## Filesystem Navigation
