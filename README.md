@@ -1,6 +1,6 @@
 # Modern Unix
 
-A collection of modern/faster/saner alternatives or complements to common unix commands.
+A collection of modern/faster/saner alternatives to common unix commands, as well as some command-line productivity tools that are just realy cool =)
 
 ## File Listing
 
