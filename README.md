@@ -7,7 +7,7 @@ A collection of modern/faster/saner alternatives to common unix commands, as wel
 * [`bat`](https://github.com/sharkdp/bat) — A `cat` clone with wings.
 * [`exa`](https://github.com/ogham/exa) — A modern replacement for `ls`.
 * [`dust`](https://github.com/bootandy/dust) — A more intuitive version of `du` in rust.
-* [`broot`](https://github.com/Canop/broot) — A new way to see and navigate directory `trees`.
+* [`broot`](https://github.com/Canop/broot) — A new way to see and navigate directory `tree`s.
 * [`fd`](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to `find`.
 
 ## Search
@@ -16,6 +16,7 @@ A collection of modern/faster/saner alternatives to common unix commands, as wel
 * [`ack`](https://github.com/beyondgrep/ack3) — A `grep` like search tool optimized for source code.
 * [`ripgrep`](https://github.com/BurntSushi/ripgrep) — An extremely fast alternative to `grep` that respects your gitignore.
 * [`fzf`](https://github.com/junegunn/fzf) — A general-purpose command-line fuzzy finder.
+* [`mcfly`](https://github.com/cantino/mcfly) — Fly through your shell `history`. Great Scott! 
 
 ## Text Processing
 
@@ -43,9 +44,9 @@ A collection of modern/faster/saner alternatives to common unix commands, as wel
 ## Filesystem Navigation
 
 * [`autojump`](https://github.com/wting/autojump) — A `cd` command that learns.
-* [`z`](https://github.com/rupa/z/) — Jump around.
 * [`zoxide`](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
-
+* [`z`](https://github.com/rupa/z/) — Jump around.
+* 
 ## Core Utils
 
 * [`uutils`](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
