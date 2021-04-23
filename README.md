@@ -40,7 +40,7 @@ A collection of modern/faster/saner alternatives to common unix commands, as wel
 ## HTTP Clients
 
 * [`httpie`](https://github.com/httpie/httpie) — A modern, user-friendly command-line HTTP client for the API era.
-* [`curlie`](https://github.com/rs/curlie) — The power of `curl`, the ease of use of `httpie`. 
+* [`xh`](https://github.com/ducaale/xh) — A friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design, with a focus on improved performance.
 
 ## Filesystem Navigation
 
