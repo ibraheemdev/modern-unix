@@ -1,6 +1,6 @@
 # Modern Unix
 
-A collection of modern/faster/saner alternatives to common unix commands, as well as some command-line productivity tools that are just realy cool =)
+A collection of modern/faster/saner alternatives to common unix commands, as well as some command-line productivity tools that are just really cool =)
 
 ## File Listing
 
@@ -46,7 +46,7 @@ A collection of modern/faster/saner alternatives to common unix commands, as wel
 * [`autojump`](https://github.com/wting/autojump) — A `cd` command that learns.
 * [`zoxide`](https://github.com/ajeetdsouza/zoxide) — A blazing fast alternative to `cd`
 * [`z`](https://github.com/rupa/z/) — Jump around.
-* 
+
 ## Core Utils
 
 * [`uutils`](https://github.com/uutils/coreutils) — Cross-platform Rust rewrite of the GNU `coreutils`.
