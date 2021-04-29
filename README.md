@@ -22,6 +22,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/Peltoche/lsd"><code>lsd</code></a>
+  </h1>
+  <p align="center">A compatible, modern replacement for <code>ls</code>.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/bootandy/dust"><code>dust</code></a>
   </h1>
   <p align="center">A more intutive version of <code>du</code> written in rust.</p>
