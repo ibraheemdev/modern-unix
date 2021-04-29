@@ -26,7 +26,7 @@
   </h1>
   <p align="center">A compatible, modern replacement for <code>ls</code>.</p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png" width="700" />
+    <img src="https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png" width="600" />
   </p>
 </p>
 
