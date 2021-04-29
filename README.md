@@ -24,7 +24,7 @@
   <h1 align="center">
     <a href="https://github.com/Peltoche/lsd"><code>lsd</code></a>
   </h1>
-  <p align="center">A compatible, modern replacement for <code>ls</code>.</p>
+  <p align="center">The next gen file listing command. Backwards compatible with <code>ls</code>.</p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png" width="600" />
   </p>
