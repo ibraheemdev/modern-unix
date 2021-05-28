@@ -72,7 +72,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/ggeer/the_silver_searcher"><code>ag</code></a>
+    <a href="https://github.com/ggreer/the_silver_searcher"><code>ag</code></a>
   </h1>
   <p align="center">A code searching tool similar to <code>ack</code>, but faster.</p>
   <p align="center">
