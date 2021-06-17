@@ -144,6 +144,18 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/antonmedv/fx"><code>fx</code></a>
+  </h1>
+  <p align="center">
+    Command-line JSON processing tool.
+  </p>
+  <p align="center">
+    <img src="https://camo.githubusercontent.com/1bdef90eaab60a00024adb27a167e2ccdf713869bdf186350299b42d36311f2d/68747470733a2f2f6d6564762e696f2f6173736574732f66782e676966" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/chmln/sd"><code>sd</code></a>
   </h1>
   <p align="center">An intuitive find & replace CLI (<code>sed</code> alternative).</p>
