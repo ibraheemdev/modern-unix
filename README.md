@@ -266,7 +266,7 @@
   <h1 align="center">
     <a href="https://github.com/ajeetdsouza/zoxide"><code>zoxide</code></a>
   </h1>
-  <p align="center">A smarter <code>cd</code> command.</p>
+  <p align="center">A smarter <code>cd</code> command inspired by <code>z</code>.</p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.webp" width="600" />
   </p>
