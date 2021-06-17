@@ -52,6 +52,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/muesli/duf"><code>duf</code></a>
+  </h1>
+  <p align="center">A better <code>df</code> alternative </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/muesli/duf/master/duf.png" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/Canop/broot"><code>broot</code></a>
   </h1>
   <p align="center">A new way to see and navigate directory <code>tree</code>s</p>
