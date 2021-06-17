@@ -32,6 +32,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/dandavison/delta"><code>delta</code></a>
+  </h1>
+  <p align="center">A viewer for <code>git</code> and <code>diff</code> output</p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/52205/87230973-412eb900-c381-11ea-8aec-cc200290bd1b.png" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/bootandy/dust"><code>dust</code></a>
   </h1>
   <p align="center">A more intutive version of <code>du</code> written in rust.</p>
