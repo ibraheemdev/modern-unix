@@ -36,7 +36,7 @@
   </h1>
   <p align="center">A viewer for <code>git</code> and <code>diff</code> output</p>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/52205/87230973-412eb900-c381-11ea-8aec-cc200290bd1b.png" width="600" />
+    <img src="https://user-images.githubusercontent.com/52205/86275526-76792100-bba1-11ea-9e78-6be9baa80b29.png" width="600" />
   </p>
 </p>
 
