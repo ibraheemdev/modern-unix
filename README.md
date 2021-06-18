@@ -174,16 +174,6 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/dbrgn/tealdeer"><code>tealdeer</code></a>
-  </h1>
-  <p align="center">A very fast implementation of <code>tldr</code> in Rust</p>
-  <p align="center">
-    <img src="https://github.com/dbrgn/tealdeer/blob/master/docs/src/screenshot-default.png" width="600" />
-  </p>
-</p>
-
-<p align="center">
-  <h1 align="center">
     <a href="https://github.com/ClementTsang/bottom"><code>bottom</code></a>
   </h1>
   <p align="center">Yet another cross-platform graphical process/system monitor.</p>
