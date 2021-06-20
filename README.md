@@ -261,3 +261,13 @@
     <img src="https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.webp" width="600" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/orf/gping"><code>gping</code></a>
+  </h1>
+  <p align="center">Ping with graph.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/orf/gping/master/images/readme-example.gif" width="600" />
+  </p>
+</p>
