@@ -239,7 +239,6 @@
   <p align="center">A modern, user-friendly command-line HTTP client for the API era.</p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/httpie/httpie/master/httpie.gif" width="600" />
-
   </p>
 </p>
 
