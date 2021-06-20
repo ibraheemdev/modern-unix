@@ -224,11 +224,22 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/denilsonsa/prettyping"><code>prettyping</code></a>
+  </h1>
+  <p align="center">A wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.</p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74227209/122676595-c6f0f080-d1ef-11eb-847a-50b67f87bd0e.png" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/httpie/httpie"><code>httpie</code></a>
   </h1>
   <p align="center">A modern, user-friendly command-line HTTP client for the API era.</p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/httpie/httpie/master/httpie.gif" width="600" />
+
   </p>
 </p>
 
