@@ -214,6 +214,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/orf/gping"><code>gping</code></a>
+  </h1>
+  <p align="center"><code>ping</code>, but with a graph.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/orf/gping/master/images/readme-example.gif" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/dalance/procs"><code>procs</code></a>
   </h1>
   <p align="center">A modern replacement for <code>ps</code> written in Rust.</p>
@@ -259,15 +269,5 @@
   <p align="center">A smarter <code>cd</code> command inspired by <code>z</code>.</p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.webp" width="600" />
-  </p>
-</p>
-
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/orf/gping"><code>gping</code></a>
-  </h1>
-  <p align="center">Ping with graph.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/orf/gping/master/images/readme-example.gif" width="600" />
   </p>
 </p>
