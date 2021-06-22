@@ -177,7 +177,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/theryangeary/choose"><code>choose</code></a>
   </h1>
@@ -187,7 +187,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/stedolan/jq"><code>jq</code></a>
   </h1>
@@ -199,7 +199,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/chmln/sd"><code>sd</code></a>
   </h1>
@@ -209,7 +209,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/cheat/cheat"><code>cheat</code></a>
   </h1>
@@ -219,7 +219,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/tldr-pages/tldr"><code>tldr</code></a>
   </h1>
@@ -229,7 +229,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/ClementTsang/bottom"><code>bottom</code></a>
   </h1>
@@ -239,7 +239,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/nicolargo/glances"><code>glances</code></a>
   </h1>
@@ -249,7 +249,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/aksakalli/gtop"><code>gtop</code></a>
   </h1>
@@ -259,7 +259,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/sharkdp/hyperfine"><code>hyperfine</code></a>
   </h1>
@@ -269,7 +269,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/orf/gping"><code>gping</code></a>
   </h1>
@@ -279,7 +279,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/dalance/procs"><code>procs</code></a>
   </h1>
@@ -289,7 +289,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/httpie/httpie"><code>httpie</code></a>
   </h1>
@@ -299,7 +299,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/rs/curlie"><code>curlie</code></a>
   </h1>
@@ -309,7 +309,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/ducaale/xh"><code>xh</code></a>
   </h1>
@@ -319,7 +319,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/ajeetdsouza/zoxide"><code>zoxide</code></a>
   </h1>
