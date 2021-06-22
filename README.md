@@ -1,6 +1,63 @@
 <h1 align="center">Modern Unix</h1>
 
-<p align="center">
+- [bat](#----bat--)
+
+- [exa](#----exa--)
+
+- [lsd](#----lsd--)
+
+- [delta](#----delta--)
+
+- [dust](#----dust--)
+
+- [duf](#----duf--)
+
+- [broot](#----broot--)
+
+- [fd](#----fd--)
+
+- [ripgrep](#----ripgrep--)
+
+- [ag](#----ag--)
+
+- [fzf](#----fzf--)
+
+- [mcfly](#----mcfly--)
+
+- [choose](#----choose--)
+
+- [jq](#----jq--)
+
+- [sd](#----sd--)
+
+- [cheat](#----cheat--)
+
+- [tldr](#----tldr--)
+
+- [tealdeer](#----tealdeer--)
+
+- [bottom](#----bottom--)
+
+- [glances](#----glances--)
+
+- [gtop](#----gtop--)
+
+- [hyperfine](#----hyperfine--)
+
+- [procs](#----procs--)
+
+- [httpie](#----httpie--)
+
+- [curlie](#----curlie--)
+
+- [xh](#----xh--)
+
+- [zoxide](#----zoxide--)
+
+
+
+
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/sharkdp/bat"><code>bat</code></a>
   </h1>
@@ -10,7 +67,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/ogham/exa"><code>exa</code></a>
   </h1>
@@ -20,7 +77,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/Peltoche/lsd"><code>lsd</code></a>
   </h1>
@@ -30,7 +87,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/dandavison/delta"><code>delta</code></a>
   </h1>
@@ -40,7 +97,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/bootandy/dust"><code>dust</code></a>
   </h1>
@@ -50,7 +107,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/muesli/duf"><code>duf</code></a>
   </h1>
@@ -60,7 +117,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/Canop/broot"><code>broot</code></a>
   </h1>
@@ -70,7 +127,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/sharkdp/fd"><code>fd</code></a>
   </h1>
@@ -80,7 +137,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/BurntSushi/ripgrep"><code>ripgrep</code></a>
   </h1>
@@ -90,7 +147,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/ggreer/the_silver_searcher"><code>ag</code></a>
   </h1>
@@ -100,7 +157,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/junegunn/fzf"><code>fzf</code></a>
   </h1>
@@ -110,7 +167,7 @@
   </p>
 </p>
 
-<p align="center">
+## <p align="center">
   <h1 align="center">
     <a href="https://github.com/cantino/mcfly"><code>mcfly</code></a>
   </h1>
