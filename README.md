@@ -278,6 +278,6 @@
   </h1>
   <p align="center">A user-friendly command-line DNS client. <code>dig</code> on steroids</p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="600" />
+    <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
