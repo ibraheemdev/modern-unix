@@ -10,6 +10,19 @@
   </p>
 </p>
 
+
+
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/salman-abedin/devour"><code>devour</code></a>
+  </h1>
+  <p align="center">Hide terminal when opening application from it.</p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/42715380/123373759-93251a80-d5a3-11eb-8779-00ad1d731339.gif" width="600" />
+  </p>
+</p>
+
 <p align="center">
   <h1 align="center">
     <a href="https://github.com/ogham/exa"><code>exa</code></a>
