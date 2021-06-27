@@ -52,6 +52,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/dundee/gdu"><code>gdu</code></a>
+  </h1>
+  <p align="center">A fast <code>du</code> alternative written in go.</p>
+  <p align="center">
+    <a href="https://asciinema.org/a/382738"><img src="https://asciinema.org/a/382738.svg" width="600" /></a>
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/muesli/duf"><code>duf</code></a>
   </h1>
   <p align="center">A better <code>df</code> alternative </p>
