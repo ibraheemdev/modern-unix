@@ -224,7 +224,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/orf/gping"><code>pingg</code></a>
+    <a href="https://gitlab.com/Thann/pingg"><code>pingg</code></a>
   </h1>
   <p align="center">Another <code>ping</code> with a graph.</p>
   <p align="center">
