@@ -281,3 +281,13 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/nvbn/thefuck"><code>thefuck</code></a>
+  </h1>
+  <p align="center">Magnificent app which corrects your previous console command.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif" width="700" />
+  </p>
+</p>
