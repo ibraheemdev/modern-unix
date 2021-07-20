@@ -281,3 +281,13 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/casey/just"><code>just</code></a>
+  </h1>
+  <p align="center">A user-friendly command runner. <code>make</code> minus the finicky build system.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/casey/just/master/screenshot.png" width="700" />
+  </p>
+</p>
