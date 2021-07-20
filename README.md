@@ -281,3 +281,15 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/denisidoro/navi"><code>navi</code></a>
+  </h1>
+  <p align="center">An interactive cheatsheet tool for the command-line.</p>
+  <p align="center">
+    <a href="https://asciinema.org/a/406461">
+      <img src="https://asciinema.org/a/406461.svg" width="700" />
+    </a>
+  </p>
+</p>
