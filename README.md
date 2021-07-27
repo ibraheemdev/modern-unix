@@ -44,7 +44,7 @@
   <h1 align="center">
     <a href="https://github.com/bootandy/dust"><code>dust</code></a>
   </h1>
-  <p align="center">A more intutive version of <code>du</code> written in rust.</p>
+  <p align="center">A more intuitive version of <code>du</code> written in rust.</p>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/200613/90223722-e0c2e980-de0e-11ea-8c75-343273fed6f3.png" width="600" />
   </p>
