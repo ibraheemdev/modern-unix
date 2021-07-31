@@ -281,3 +281,13 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/saulpw/visidata"><code>VisiData</code></a>
+  </h1>
+  <p align="center">.A terminal spreadsheet multitool for exploring and arranging data.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/saulpw/visidata.org/master/images/freq-screenshot.png" width="700" />
+  </p>
+</p>
