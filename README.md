@@ -281,3 +281,13 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/arzzen/git-quick-stats"><code>git-quick-stats</code></a>
+  </h1>
+  <p align="center">A tool to visualize useful stats and insights from a Git repository</p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/8818630/121750517-8819b700-cada-11eb-99a0-a72942822da5.png" width="700" />
+  </p>
+</p>
