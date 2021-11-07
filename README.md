@@ -194,6 +194,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/dundee/gdu"><code>gdu</code></a>
+  </h1>
+  <p align="center"><code>go DiskUsage()</code> | Pretty fast disk usage analyzer written in Go.</p>
+  <p align="center">
+    <img src="https://i.stack.imgur.com/FNJ4o.gif" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/aksakalli/gtop"><code>gtop</code></a>
   </h1>
   <p align="center">System monitoring dashboard for terminal.</p>
