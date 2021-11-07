@@ -204,6 +204,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/bvaisvil/zenith"><code>zenith</code></a>
+  </h1>
+  <p align="center">In terminal graphical system (including NVIDIA GPU) metrics for your *nix system written in Rust with persistent history.</p>
+  <p align="center">
+    <img src="https://github.com/bvaisvil/zenith/blob/master/assets/screenshot.png" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/sharkdp/hyperfine"><code>hyperfine</code></a>
   </h1>
   <p align="center">A command-line benchmarking tool.</p>
