@@ -281,3 +281,12 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/NLnetLabs/ldns/tree/develop/drill"><code>drill</code></a>
+  </h1>
+  <p align="center"><code>ldns</code> includes the <code>drill</code> tool, which is much like <code>dig</code> from BIND. It was designed with DNSSEC in mind and should be a useful debugging/query tool for DNSSEC<code>dig</code> on steroids</p>
+  <p align="center">
+  </p>
+</p>
