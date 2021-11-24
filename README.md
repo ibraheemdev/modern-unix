@@ -281,3 +281,13 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/antonmedv/eat"><code>eat</code></a>
+  </h1>
+  <p align="center">Command-line tool for converting anything to JSON.</p>
+  <p align="center">
+    <img src="https://github.com/slavaGanzin/eat/raw/strip-ansi2/eat.png" width="700" />
+  </p>
+</p>
+
