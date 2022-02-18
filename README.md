@@ -281,3 +281,13 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/aristocratos/btop"><code>btop</code></a>
+  </h1>
+  <p align="center">A monitor of resources. </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/aristocratos/btop/main/Img/normal.png" width="600" />
+  </p>
+</p>
