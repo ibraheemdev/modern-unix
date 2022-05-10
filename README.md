@@ -274,10 +274,10 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/ogham/dog"><code>dog</code></a>
+    <a href="https://github.com/mr-karan/doggo"><code>doggo</code></a>
   </h1>
-  <p align="center">A user-friendly command-line DNS client. <code>dig</code> on steroids</p>
+  <p align="center">🐶 Command-line DNS client for humans. <code>dig</code> on steroids</p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
+    <img src="https://raw.githubusercontent.com/mr-karan/doggo/main/www/static/doggo.png" width="700" />
   </p>
 </p>
