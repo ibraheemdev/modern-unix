@@ -66,7 +66,7 @@
   </h1>
   <p align="center">A new way to see and navigate directory <code>tree</code>s</p>
   <p align="center">
-    <img src="https://github.com/Canop/broot/blob/master/website/docs/img/20200629-overview.png" width="600" />
+    <img src="https://raw.githubusercontent.com/Canop/broot/master/website/docs/img/20200629-overview.png" width="600" />
   </p>
 </p>
 
@@ -96,7 +96,7 @@
   </h1>
   <p align="center">A code searching tool similar to <code>ack</code>, but faster.</p>
   <p align="center">
-    <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/s/sona-zip/20130531/20130531223246_original.png?1370007170" width="600" />
+    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sona-zip/20130531/20130531223246_original.png?1370007170" width="600" />
   </p>
 </p>
 
@@ -116,7 +116,7 @@
   </h1>
   <p align="center">Fly through your shell <code>history</code>. Great Scott! </p>
   <p align="center">
-    <img src="https://github.com/cantino/mcfly/blob/master/docs/screenshot.png" width="600" />
+    <img src="https://raw.githubusercontent.com/cantino/mcfly/master/docs/screenshot.png" width="600" />
   </p>
 </p>
 
@@ -178,7 +178,7 @@
   </h1>
   <p align="center">Yet another cross-platform graphical process/system monitor.</p>
   <p align="center">
-    <img src="https://github.com/ClementTsang/bottom/blob/master/assets/demo.gif" width="600" />
+    <img src="https://raw.githubusercontent.com/ClementTsang/bottom/master/assets/demo.gif" width="600" />
   </p>
 </p>
 
