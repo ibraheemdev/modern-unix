@@ -62,6 +62,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/muesli/duf"><code>dutree</code></a>
+  </h1>
+  <p align="center">A <code>df</code> alternative to analyze file system usage written in Rust</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/nachoparker/dutree/master/resources/dutree_featured.png" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/Canop/broot"><code>broot</code></a>
   </h1>
   <p align="center">A new way to see and navigate directory <code>tree</code>s</p>
