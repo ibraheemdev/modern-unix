@@ -281,3 +281,13 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/extrawurst/gitui"><code>gitui</code></a>
+  </h1>
+  <p align="center">Blazing 💥 fast terminal-ui for git written in rust 🦀</p>
+  <p align="center">
+    <img src="https://github.com/extrawurst/gitui/raw/master/demo.gif" width="700" />
+  </p>
+</p>
