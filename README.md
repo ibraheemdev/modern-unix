@@ -32,6 +32,20 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://gitlab.com/trashy/trashy"><code>trashy</code></a>
+  </h1>
+  <p align="center">A sane intermediary to the 'rm' command.</p>
+</p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/andreafrancia/trash-cli"><code>trash-cli</code></a>
+  </h1>
+  <p align="center">Command line interface to the freedesktop.org trashcan.</p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/dandavison/delta"><code>delta</code></a>
   </h1>
   <p align="center">A viewer for <code>git</code> and <code>diff</code> output</p>
@@ -39,6 +53,7 @@
     <img src="https://user-images.githubusercontent.com/52205/86275526-76792100-bba1-11ea-9e78-6be9baa80b29.png" width="600" />
   </p>
 </p>
+
 
 <p align="center">
   <h1 align="center">
