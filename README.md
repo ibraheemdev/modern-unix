@@ -52,6 +52,17 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/KSXGitHub/parallel-disk-usage"><code>pdu</code></a>
+  </h1>
+  <p align="center">Highly parallelized, blazing fast directory tree analyzer, as an alternative to <code>du</code></p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/11488886/120894518-04c41580-c643-11eb-9089-71822b543a2c.png" width="600" />
+  </p>
+</p>
+
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/muesli/duf"><code>duf</code></a>
   </h1>
   <p align="center">A better <code>df</code> alternative </p>
