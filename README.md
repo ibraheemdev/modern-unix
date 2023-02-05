@@ -12,6 +12,16 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/hoodie/shell-uglify"><code>shell-uglify</code></a>
+  </h1>
+  <p align="center">A tool that turns shell code into ugly shell code.</p>
+  <p align="center">
+    <img src="https://i.imgur.com/Nj0ZtyU.png" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/ogham/exa"><code>exa</code></a>
   </h1>
   <p align="center">A modern replacement for <code>ls</code>.</p>
