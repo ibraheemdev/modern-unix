@@ -281,3 +281,13 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/neovim/neovim"><code>neovim</code></a>
+  </h1>
+  <p align="center">A <code>vim</code>-based text editor engineered for extensibility and usability</p>
+  <p align="center">
+    <img src="https://neovim.io/images/nvim-0.4.0-floatwin-chemzqm.gif" width="600" />
+  </p>
+</p>
