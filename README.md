@@ -281,3 +281,13 @@
     <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/BLAKE3-team/BLAKE3"><code>b3sum</code></a>
+  </h1>
+  <p align="center">Faster and more secure checksum than MD5, SHA-1, BLAKE2, SHA-256, etc.</p>
+  <p align="center">
+    <img src="https://github.com/ibraheemdev/modern-unix/assets/111794344/207b4703-e21c-4d3b-90d4-135b5212bf24" width="700" />
+  </p>
+</p>
