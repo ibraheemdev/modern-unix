@@ -1,283 +1,234 @@
 <h1 align="center">Modern Unix</h1>
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/sharkdp/bat"><code>bat</code></a>
-  </h1>
-  <p align="center">A <code>cat</code> clone with syntax highlighting and Git integration.</p>
-  <p align="center">
-    <img src="https://camo.githubusercontent.com/c436c206f2c86605ab2f9fb632dd485afc05fccbf14af472770b0c59d876c9cc/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67" width="600" />
-  </p>
-</p>
+|           Name           | Description                                                            | Status                                                         |                      Screenshot                       |
+| :----------------------: | ---------------------------------------------------------------------- | -------------------------------------------------------------- | :---------------------------------------------------: |
+|        [`ag`][ag]        | A code searching tool similar to `ack`, but faster.                    | ![_][ag-ghst] ![_][ag-lang] ![_][ag-ghlc]                      |    <img width="300" src="./screenshots/ag.png" />     |
+|       [`bat`][bat]       | A `cat` clone with syntax highlighting and Git integration.            | ![_][bat-ghst] ![_][bat-lang] ![_][bat-ghlc]                   |    <img width="300" src="./screenshots/bat.png" />    |
+|    [`bottom`][bottom]    | Yet another cross-platform graphical process/system monitor.           | ![_][bottom-ghst] ![_][bottom-lang] ![_][bottom-ghlc]          |  <img width="300" src="./screenshots/bottom.gif" />   |
+|     [`broot`][broot]     | A new way to see and navigate directory `tree`s.                       | ![_][broot-ghst] ![_][broot-lang] ![_][broot-ghlc]             |   <img width="300" src="./screenshots/broot.png" />   |
+|     [`cheat`][cheat]     | Create and view interactive cheatsheets on the command-line.           | ![_][cheat-ghst] ![_][cheat-lang] ![_][cheat-ghlc]             |   <img width="300" src="./screenshots/cheat.png" />   |
+|    [`choose`][choose]    | A human-friendly and fast alternative to `cut` and (sometimes) `awk` . | ![_][choose-ghst] ![_][choose-lang] ![_][choose-ghlc]          |  <img width="300" src="./screenshots/choose.png" />   |
+|    [`curlie`][curlie]    | The power of `curl`, the ease of use of `httpie`.                      | ![_][curlie-ghst] ![_][curlie-lang] ![_][curlie-ghlc]          |  <img width="300" src="./screenshots/curlie.png" />   |
+|     [`delta`][delta]     | A viewer for `git` and `diff` output.                                  | ![_][delta-ghst] ![_][delta-lang] ![_][delta-ghlc]             |   <img width="300" src="./screenshots/delta.png" />   |
+|       [`dog`][dog]       | A user-friendly command-line DNS client. `dig` on steroids.            | ![_][dog-ghst] ![_][dog-lang] ![_][dog-ghlc]                   |    <img width="300" src="./screenshots/dog.png" />    |
+|       [`duf`][duf]       | A better `df` alternative.                                             | ![_][duf-ghst] ![_][duf-lang] ![_][duf-ghlc]                   |    <img width="300" src="./screenshots/duf.png" />    |
+|      [`dust`][dust]      | A more intuitive version of `du` written in rust.                      | ![_][dust-ghst] ![_][dust-lang] ![_][dust-ghlc]                |   <img width="300" src="./screenshots/dust.png" />    |
+|       [`eza`][eza]       | A modern, maintained replacement for `ls`, built on `exa`.             | ![_][eza-ghst] ![_][eza-lang] ![_][eza-ghlc]                   |    <img width="300" src="./screenshots/eza.png" />    |
+|        [`fd`][fd]        | A simple, fast and user-friendly alternative to `find`.                | ![_][fd-ghst] ![_][fd-lang] ![_][fd-ghlc]                      |    <img width="300" src="./screenshots/fd.svg" />     |
+|       [`fzf`][fzf]       | A general purpose command-line fuzzy finder.                           | ![_][fzf-ghst] ![_][fzf-lang] ![_][fzf-ghlc]                   |    <img width="300" src="./screenshots/fzf.png" />    |
+|   [`glances`][glances]   | A `top`/`htop` alternative for most operating systems.                 | ![_][glances-ghst] ![_][glances-lang] ![_][glances-ghlc]       |  <img width="300" src="./screenshots/glances.png" />  |
+|     [`gping`][gping]     | `ping`, but with a graph.                                              | ![_][gping-ghst] ![_][gping-lang] ![_][gping-ghlc]             |   <img width="300" src="./screenshots/gping.gif" />   |
+|      [`gtop`][gtop]      | System monitoring dashboard for terminal.                              | ![_][gtop-ghst] ![_][gtop-lang] ![_][gtop-ghlc]                |   <img width="300" src="./screenshots/gtop.gif" />    |
+|    [`httpie`][httpie]    | A modern, user-friendly command-line HTTP client for the API era.      | ![_][httpie-ghst] ![_][httpie-lang] ![_][httpie-ghlc]          |  <img width="300" src="./screenshots/httpie.gif" />   |
+| [`hyperfine`][hyperfine] | A command-line benchmarking tool.                                      | ![_][hyperfine-ghst] ![_][hyperfine-lang] ![_][hyperfine-ghlc] | <img width="300" src="./screenshots/hyperfine.gif" /> |
+|        [`jq`][jq]        | `sed` for JSON data.                                                   | ![_][jq-ghst] ![_][jq-lang] ![_][jq-ghlc]                      |    <img width="300" src="./screenshots/jq.png" />     |
+|       [`lsd`][lsd]       | The next gen file listing command. Backwards compatible with `ls`.     | ![_][lsd-ghst] ![_][lsd-lang] ![_][lsd-ghlc]                   |    <img width="300" src="./screenshots/lsd.png" />    |
+|     [`mcfly`][mcfly]     | Fly through your shell `history`. Great Scott! .                       | ![_][mcfly-ghst] ![_][mcfly-lang] ![_][mcfly-ghlc]             |   <img width="300" src="./screenshots/mcfly.png" />   |
+|     [`procs`][procs]     | A modern replacement for `ps` written in Rust.                         | ![_][procs-ghst] ![_][procs-lang] ![_][procs-ghlc]             |   <img width="300" src="./screenshots/procs.png" />   |
+|   [`ripgrep`][ripgrep]   | An extremely fast alternative to `grep` that respects your gitignore.  | ![_][ripgrep-ghst] ![_][ripgrep-lang] ![_][ripgrep-ghlc]       |  <img width="300" src="./screenshots/ripgrep.gif" />  |
+|        [`sd`][sd]        | An intuitive find & replace CLI (`sed` alternative).                   | ![_][sd-ghst] ![_][sd-lang] ![_][sd-ghlc]                      |    <img width="300" src="./screenshots/sd.png" />     |
+|      [`tldr`][tldr]      | A community effort to simplify `man` pages with practical examples.    | ![_][tldr-ghst] ![_][tldr-lang] ![_][tldr-ghlc]                |   <img width="300" src="./screenshots/tldr.svg" />    |
+|        [`xh`][xh]        | A friendly and fast tool for sending HTTP requests.                    | ![_][xh-ghst] ![_][xh-lang] ![_][xh-ghlc]                      |    <img width="300" src="./screenshots/xh.gif" />     |
+|    [`zoxide`][zoxide]    | A smarter `cd` command inspired by `z`.                                | ![_][zoxide-ghst] ![_][zoxide-lang] ![_][zoxide-ghlc]          |  <img width="300" src="./screenshots/zoxide.riff" />  |
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/ogham/exa"><code>exa</code></a>
-  </h1>
-  <p align="center">A modern replacement for <code>ls</code>.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ogham/exa/master/screenshots.png" width="700" />
-  </p>
-</p>
+<!--Links-->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/Peltoche/lsd"><code>lsd</code></a>
-  </h1>
-  <p align="center">The next gen file listing command. Backwards compatible with <code>ls</code>.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png" width="600" />
-  </p>
-</p>
+<!--ag -->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/dandavison/delta"><code>delta</code></a>
-  </h1>
-  <p align="center">A viewer for <code>git</code> and <code>diff</code> output</p>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/52205/86275526-76792100-bba1-11ea-9e78-6be9baa80b29.png" width="600" />
-  </p>
-</p>
+[ag]: https://github.com/ggreer/the_silver_searcher
+[ag-ghlc]: https://img.shields.io/github/last-commit/ggreer/the_silver_searcher?label=%F0%9F%92%BB
+[ag-ghst]: https://img.shields.io/github/stars/ggreer/the_silver_searcher?label=%E2%AD%90
+[ag-lang]: https://img.shields.io/github/languages/top/ggreer/the_silver_searcher
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/bootandy/dust"><code>dust</code></a>
-  </h1>
-  <p align="center">A more intuitive version of <code>du</code> written in rust.</p>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/200613/90223722-e0c2e980-de0e-11ea-8c75-343273fed6f3.png" width="600" />
-  </p>
-</p>
+<!--bat-->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/muesli/duf"><code>duf</code></a>
-  </h1>
-  <p align="center">A better <code>df</code> alternative </p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/muesli/duf/master/duf.png" width="600" />
-  </p>
-</p>
+[bat]: https://github.com/sharkdp/bat
+[bat-ghlc]: https://img.shields.io/github/last-commit/sharkdp/bat?label=%F0%9F%92%BB
+[bat-ghst]: https://img.shields.io/github/stars/sharkdp/bat?label=%E2%AD%90
+[bat-lang]: https://img.shields.io/github/languages/top/sharkdp/bat
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/Canop/broot"><code>broot</code></a>
-  </h1>
-  <p align="center">A new way to see and navigate directory <code>tree</code>s</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Canop/broot/master/website/docs/img/20200629-overview.png" width="600" />
-  </p>
-</p>
+<!--bottom -->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/sharkdp/fd"><code>fd</code></a>
-  </h1>
-  <p align="center">A simple, fast and user-friendly alternative to <code>find</code>.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/sharkdp/fd/master/doc/screencast.svg" width="600" />
-  </p>
-</p>
+[bottom]: https://github.com/ClementTsang/bottom
+[bottom-ghlc]: https://img.shields.io/github/last-commit/ClementTsang/bottom?label=%F0%9F%92%BB
+[bottom-ghst]: https://img.shields.io/github/stars/ClementTsang/bottom?label=%E2%AD%90
+[bottom-lang]: https://img.shields.io/github/languages/top/ClementTsang/bottom
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/BurntSushi/ripgrep"><code>ripgrep</code></a>
-  </h1>
-  <p align="center">An extremely fast alternative to <code>grep</code> that respects your gitignore</p>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/200613/90223748-ecaeab80-de0e-11ea-9140-ac9219f5747c.gif" width="600" />
-  </p>
-</p>
+<!--broot-->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/ggreer/the_silver_searcher"><code>ag</code></a>
-  </h1>
-  <p align="center">A code searching tool similar to <code>ack</code>, but faster.</p>
-  <p align="center">
-    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sona-zip/20130531/20130531223246_original.png?1370007170" width="600" />
-  </p>
-</p>
+[broot]: https://github.com/Canop/broot
+[broot-ghst]: https://img.shields.io/github/stars/Canop/broot?label=%E2%AD%90
+[broot-ghlc]: https://img.shields.io/github/last-commit/Canop/broot?label=%F0%9F%92%BB
+[broot-lang]: https://img.shields.io/github/languages/top/Canop/broot
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/junegunn/fzf"><code>fzf</code></a>
-  </h1>
-  <p align="center">A general purpose command-line fuzzy finder.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width="600" />
-  </p>
-</p>
+<!--cheat -->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/cantino/mcfly"><code>mcfly</code></a>
-  </h1>
-  <p align="center">Fly through your shell <code>history</code>. Great Scott! </p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/cantino/mcfly/master/docs/screenshot.png" width="600" />
-  </p>
-</p>
+[cheat]: https://github.com/cheat/cheat
+[cheat-ghlc]: https://img.shields.io/github/last-commit/cheat/cheat?label=%F0%9F%92%BB
+[cheat-ghst]: https://img.shields.io/github/stars/cheat/cheat?label=%E2%AD%90
+[cheat-lang]: https://img.shields.io/github/languages/top/cheat/cheat
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/theryangeary/choose"><code>choose</code></a>
-  </h1>
-  <p align="center"> A human-friendly and fast alternative to <code>cut</code> and (sometimes) <code>awk</code> </p>
-  <p align="center">
-    <img src="https://asciinema.org/a/315932.png" width="600" />
-  </p>
-</p>
+<!--choose -->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/stedolan/jq"><code>jq</code></a>
-  </h1>
-  <p align="center">
-    <code>sed</code> for JSON data.
-  </p>
-  <p align="center">
-    <img src="https://blog.noenieto.com/media/gnome-shell-screenshot-VMABUZ.png" width="600" />
-  </p>
-</p>
+[choose]: https://github.com/theryangeary/choose
+[choose-ghlc]: https://img.shields.io/github/last-commit/theryangeary/choose?label=%F0%9F%92%BB
+[choose-ghst]: https://img.shields.io/github/stars/theryangeary/choose?label=%E2%AD%90
+[choose-lang]: https://img.shields.io/github/languages/top/theryangeary/choose
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/chmln/sd"><code>sd</code></a>
-  </h1>
-  <p align="center">An intuitive find & replace CLI (<code>sed</code> alternative).</p>
-  <p align="center">
-    <img src="https://rest-reminder.easiestsoft.com/web/command-line-search-replace-string-in-file/img/regular-expression-replace-string-in-file.png" width="600" />
-  </p>
-</p>
+<!--curlie -->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/cheat/cheat"><code>cheat</code></a>
-  </h1>
-  <p align="center">Create and view interactive cheatsheets on the command-line.</p>
-  <p align="center">
-    <img src="https://static.haydenjames.io/wp-content/uploads/2020/09/cheat-command-line-github-868x478.png" width="600" />
-  </p>
-</p>
+[curlie]: https://github.com/rs/curlie
+[curlie-ghlc]: https://img.shields.io/github/last-commit/rs/curlie?label=%F0%9F%92%BB
+[curlie-ghst]: https://img.shields.io/github/stars/rs/curlie?label=%E2%AD%90
+[curlie-lang]: https://img.shields.io/github/languages/top/rs/curlie
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/tldr-pages/tldr"><code>tldr</code></a>
-  </h1>
-  <p align="center">A community effort to simplify <code>man</code> pages with practical examples.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/tldr-pages/tldr/master/images/tldr.svg" width="600" />
-  </p>
-</p>
+<!--delta-->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/ClementTsang/bottom"><code>bottom</code></a>
-  </h1>
-  <p align="center">Yet another cross-platform graphical process/system monitor.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ClementTsang/bottom/master/assets/demo.gif" width="600" />
-  </p>
-</p>
+[delta]: https://github.com/dandavison/delta
+[delta-ghst]: https://img.shields.io/github/stars/dandavison/delta?label=%E2%AD%90
+[delta-ghlc]: https://img.shields.io/github/last-commit/dandavison/delta?label=%F0%9F%92%BB
+[delta-lang]: https://img.shields.io/github/languages/top/dandavison/delta
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/nicolargo/glances"><code>glances</code></a>
-  </h1>
-  <p align="center">Glances an Eye on your system. A <code>top</code>/<code>htop</code> alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/nicolargo/glances/develop/docs/_static/glances-summary.png" width="600" />
-  </p>
-</p>
+<!--dog -->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/aksakalli/gtop"><code>gtop</code></a>
-  </h1>
-  <p align="center">System monitoring dashboard for terminal.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/aksakalli/gtop/master/img/demo.gif" width="600" />
-  </p>
-</p>
+[dog]: https://github.com/ogham/dog
+[dog-ghlc]: https://img.shields.io/github/last-commit/ogham/dog?label=%F0%9F%92%BB
+[dog-ghst]: https://img.shields.io/github/stars/ogham/dog?label=%E2%AD%90
+[dog-lang]: https://img.shields.io/github/languages/top/ogham/dog
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/sharkdp/hyperfine"><code>hyperfine</code></a>
-  </h1>
-  <p align="center">A command-line benchmarking tool.</p>
-  <p align="center">
-    <img src="https://camo.githubusercontent.com/88a0cb35f42e02e28b0433d4b5e0029e52e723d8feb8df753e1ed06a5161db56/68747470733a2f2f692e696d6775722e636f6d2f7a31394f5978452e676966" width="600" />
-  </p>
-</p>
+<!--dust-->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/orf/gping"><code>gping</code></a>
-  </h1>
-  <p align="center"><code>ping</code>, but with a graph.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/orf/gping/master/images/readme-example.gif" width="600" />
-  </p>
-</p>
+[dust]: https://github.com/bootandy/dust
+[dust-ghst]: https://img.shields.io/github/stars/bootandy/dust?label=%E2%AD%90
+[dust-ghlc]: https://img.shields.io/github/last-commit/bootandy/dust?label=%F0%9F%92%BB
+[dust-lang]: https://img.shields.io/github/languages/top/bootandy/dust
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/dalance/procs"><code>procs</code></a>
-  </h1>
-  <p align="center">A modern replacement for <code>ps</code> written in Rust.</p>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/200613/90223676-c8eb6580-de0e-11ea-8e3e-fea30f173aab.png" width="600" />
-  </p>
-</p>
+<!--duf-->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/httpie/httpie"><code>httpie</code></a>
-  </h1>
-  <p align="center">A modern, user-friendly command-line HTTP client for the API era.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/httpie/httpie/master/docs/httpie-animation.gif" width="600" />
-  </p>
-</p>
+[duf]: https://github.com/muesli/duf
+[duf-ghst]: https://img.shields.io/github/stars/muesli/duf?label=%E2%AD%90
+[duf-ghlc]: https://img.shields.io/github/last-commit/muesli/duf?label=%F0%9F%92%BB
+[duf-lang]: https://img.shields.io/github/languages/top/muesli/duf
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/rs/curlie"><code>curlie</code></a>
-  </h1>
-  <p align="center">The power of <code>curl</code>, the ease of use of <code>httpie</code>.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/rs/curlie/master/doc/get.png" width="600" />
-  </p>
-</p>
+<!--eza-->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/ducaale/xh"><code>xh</code></a>
-  </h1>
-  <p align="center">A friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design, with a focus on improved performance.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif" width="600" />
-  </p>
-</p>
+[eza]: https://github.com/eza-community/eza
+[eza-ghst]: https://img.shields.io/github/stars/eza-community/eza?label=%E2%AD%90
+[eza-ghlc]: https://img.shields.io/github/last-commit/eza-community/eza?label=%F0%9F%92%BB
+[eza-lang]: https://img.shields.io/github/languages/top/eza-community/eza
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/ajeetdsouza/zoxide"><code>zoxide</code></a>
-  </h1>
-  <p align="center">A smarter <code>cd</code> command inspired by <code>z</code>.</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.webp" width="600" />
-  </p>
-</p>
+<!--fd -->
 
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/ogham/dog"><code>dog</code></a>
-  </h1>
-  <p align="center">A user-friendly command-line DNS client. <code>dig</code> on steroids</p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ogham/dog/master/dog-screenshot.png" width="700" />
-  </p>
-</p>
+[fd]: https://github.com/sharkdp/fd
+[fd-ghlc]: https://img.shields.io/github/last-commit/sharkdp/fd?label=%F0%9F%92%BB
+[fd-ghst]: https://img.shields.io/github/stars/sharkdp/fd?label=%E2%AD%90
+[fd-lang]: https://img.shields.io/github/languages/top/sharkdp/fd
+
+<!--fzf -->
+
+[fzf]: https://github.com/junegunn/fzf
+[fzf-ghlc]: https://img.shields.io/github/last-commit/junegunn/fzf?label=%F0%9F%92%BB
+[fzf-ghst]: https://img.shields.io/github/stars/junegunn/fzf?label=%E2%AD%90
+[fzf-lang]: https://img.shields.io/github/languages/top/junegunn/fzf
+
+<!--glances -->
+
+[glances]: https://github.com/nicolargo/glances
+[glances-ghlc]: https://img.shields.io/github/last-commit/nicolargo/glances?label=%F0%9F%92%BB
+[glances-ghst]: https://img.shields.io/github/stars/nicolargo/glances?label=%E2%AD%90
+[glances-lang]: https://img.shields.io/github/languages/top/nicolargo/glances
+
+<!--gping -->
+
+[gping]: https://github.com/orf/gping
+[gping-ghlc]: https://img.shields.io/github/last-commit/orf/gping?label=%F0%9F%92%BB
+[gping-ghst]: https://img.shields.io/github/stars/orf/gping?label=%E2%AD%90
+[gping-lang]: https://img.shields.io/github/languages/top/orf/gping
+
+<!--gtop -->
+
+[gtop]: https://github.com/aksakalli/gtop
+[gtop-ghlc]: https://img.shields.io/github/last-commit/aksakalli/gtop?label=%F0%9F%92%BB
+[gtop-ghst]: https://img.shields.io/github/stars/aksakalli/gtop?label=%E2%AD%90
+[gtop-lang]: https://img.shields.io/github/languages/top/aksakalli/gtop
+
+<!--hyperfine -->
+
+[hyperfine]: https://github.com/sharkdp/hyperfine
+[hyperfine-ghlc]: https://img.shields.io/github/last-commit/sharkdp/hyperfine?label=%F0%9F%92%BB
+[hyperfine-ghst]: https://img.shields.io/github/stars/sharkdp/hyperfine?label=%E2%AD%90
+[hyperfine-lang]: https://img.shields.io/github/languages/top/sharkdp/hyperfine
+
+<!--httpie -->
+
+[httpie]: https://github.com/httpie/httpie
+[httpie-ghlc]: https://img.shields.io/github/last-commit/httpie/httpie?label=%F0%9F%92%BB
+[httpie-ghst]: https://img.shields.io/github/stars/httpie/httpie?label=%E2%AD%90
+[httpie-lang]: https://img.shields.io/github/languages/top/httpie/httpie
+
+<!--jq -->
+
+[jq]: https://github.com/stedolan/jq
+[jq-ghlc]: https://img.shields.io/github/last-commit/stedolan/jq?label=%F0%9F%92%BB
+[jq-ghst]: https://img.shields.io/github/stars/stedolan/jq?label=%E2%AD%90
+[jq-lang]: https://img.shields.io/github/languages/top/stedolan/jq
+
+<!--lsd-->
+
+[lsd]: https://github.com/Peltoche/lsd
+[lsd-ghst]: https://img.shields.io/github/stars/Peltoche/lsd?label=%E2%AD%90
+[lsd-ghlc]: https://img.shields.io/github/last-commit/Peltoche/lsd?label=%F0%9F%92%BB
+[lsd-lang]: https://img.shields.io/github/languages/top/Peltoche/lsd
+
+<!--mcfly -->
+
+[mcfly]: https://github.com/cantino/mcfly
+[mcfly-ghlc]: https://img.shields.io/github/last-commit/cantino/mcfly?label=%F0%9F%92%BB
+[mcfly-ghst]: https://img.shields.io/github/stars/cantino/mcfly?label=%E2%AD%90
+[mcfly-lang]: https://img.shields.io/github/languages/top/cantino/mcfly
+
+<!--procs -->
+
+[procs]: https://github.com/dalance/procs
+[procs-ghlc]: https://img.shields.io/github/last-commit/dalance/procs?label=%F0%9F%92%BB
+[procs-ghst]: https://img.shields.io/github/stars/dalance/procs?label=%E2%AD%90
+[procs-lang]: https://img.shields.io/github/languages/top/dalance/procs
+
+<!--ripgrep -->
+
+[ripgrep]: https://github.com/BurntSushi/ripgrep
+[ripgrep-ghlc]: https://img.shields.io/github/last-commit/BurntSushi/ripgrep?label=%F0%9F%92%BB
+[ripgrep-ghst]: https://img.shields.io/github/stars/BurntSushi/ripgrep?label=%E2%AD%90
+[ripgrep-lang]: https://img.shields.io/github/languages/top/BurntSushi/ripgrep
+
+<!--sd -->
+
+[sd]: https://github.com/chmln/sd
+[sd-ghlc]: https://img.shields.io/github/last-commit/chmln/sd?label=%F0%9F%92%BB
+[sd-ghst]: https://img.shields.io/github/stars/chmln/sd?label=%E2%AD%90
+[sd-lang]: https://img.shields.io/github/languages/top/chmln/sd
+
+<!--tldr -->
+
+[tldr]: https://github.com/tldr-pages/tldr
+[tldr-ghlc]: https://img.shields.io/github/last-commit/tldr-pages/tldr?label=%F0%9F%92%BB
+[tldr-ghst]: https://img.shields.io/github/stars/tldr-pages/tldr?label=%E2%AD%90
+[tldr-lang]: https://img.shields.io/github/languages/top/tldr-pages/tldr
+
+<!--xh -->
+
+[xh]: https://github.com/ducaale/xh
+[xh-ghlc]: https://img.shields.io/github/last-commit/ducaale/xh?label=%F0%9F%92%BB
+[xh-ghst]: https://img.shields.io/github/stars/ducaale/xh?label=%E2%AD%90
+[xh-lang]: https://img.shields.io/github/languages/top/ducaale/xh
+
+<!--zoxide -->
+
+[zoxide]: https://github.com/ajeetdsouza/zoxide
+[zoxide-ghlc]: https://img.shields.io/github/last-commit/ajeetdsouza/zoxide?label=%F0%9F%92%BB
+[zoxide-ghst]: https://img.shields.io/github/stars/ajeetdsouza/zoxide?label=%E2%AD%90
+[zoxide-lang]: https://img.shields.io/github/languages/top/ajeetdsouza/zoxide
+
+<!--GH => GitHub -->
+<!--ST => Stars -->
+<!--LC => Last Commit -->
