@@ -12,7 +12,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/ogham/exa"><code>exa</code></a>
+    <a href="https://github.com/eza-community/eza"><code>eza</code></a>
   </h1>
   <p align="center">A modern replacement for <code>ls</code>.</p>
   <p align="center">
