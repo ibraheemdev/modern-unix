@@ -6,7 +6,7 @@
   </h1>
   <p align="center">A <code>cat</code> clone with syntax highlighting and Git integration.</p>
   <p align="center">
-    <img src="https://camo.githubusercontent.com/c436c206f2c86605ab2f9fb632dd485afc05fccbf14af472770b0c59d876c9cc/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67" width="600" />
+    <img src="https://camo.githubusercontent.com/a9789c5200bdb0a22602643d7bf85f0f424ddd4259e763abc865609010c5e228/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67" width="600" />
   </p>
 </p>
 
@@ -168,7 +168,7 @@
   </h1>
   <p align="center">A community effort to simplify <code>man</code> pages with practical examples.</p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/tldr-pages/tldr/master/images/tldr.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/tldr-pages/tldr/main/images/tldr-dark.png" width="600" />
   </p>
 </p>
 
@@ -208,7 +208,7 @@
   </h1>
   <p align="center">A command-line benchmarking tool.</p>
   <p align="center">
-    <img src="https://camo.githubusercontent.com/88a0cb35f42e02e28b0433d4b5e0029e52e723d8feb8df753e1ed06a5161db56/68747470733a2f2f692e696d6775722e636f6d2f7a31394f5978452e676966" width="600" />
+    <img src="https://camo.githubusercontent.com/9bac9fc730637ebd007bdc51c6ec43d1e49b6f7ed92f00e087b71ec9c175fda6/68747470733a2f2f692e696d6775722e636f6d2f7a31394f5978452e676966" width="600" />
   </p>
 </p>
 
