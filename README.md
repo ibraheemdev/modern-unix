@@ -6,7 +6,7 @@
   </h1>
   <p align="center">A <code>cat</code> clone with syntax highlighting and Git integration.</p>
   <p align="center">
-    <img src="https://camo.githubusercontent.com/c436c206f2c86605ab2f9fb632dd485afc05fccbf14af472770b0c59d876c9cc/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67" width="600" />
+    <img src="https://camo.githubusercontent.com/a9789c5200bdb0a22602643d7bf85f0f424ddd4259e763abc865609010c5e228/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67" width="600" />
   </p>
 </p>
 
@@ -147,8 +147,13 @@
     <a href="https://github.com/chmln/sd"><code>sd</code></a>
   </h1>
   <p align="center">An intuitive find & replace CLI (<code>sed</code> alternative).</p>
-  <p align="center">
-    <img src="https://rest-reminder.easiestsoft.com/web/command-line-search-replace-string-in-file/img/regular-expression-replace-string-in-file.png" width="600" />
+  <p>
+    <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&gt; echo 'lots((([]))) of special chars' | sd -F '((([])))' ''
+lots of special chars"><pre><span class="pl-k">&gt;</span> <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">'</span>lots((([]))) of special chars<span class="pl-pds">'</span></span> <span class="pl-k">|</span> sd -F <span class="pl-s"><span class="pl-pds">'</span>((([])))<span class="pl-pds">'</span></span> <span class="pl-s"><span class="pl-pds">'</span><span class="pl-pds">'</span></span>
+lots of special chars</pre></div>
+   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&gt; echo 'lorem ipsum 23   ' | sd '\s+$' ''
+lorem ipsum 23"><pre><span class="pl-k">&gt;</span> <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">'</span>lorem ipsum 23   <span class="pl-pds">'</span></span> <span class="pl-k">|</span> sd <span class="pl-s"><span class="pl-pds">'</span>\s+$<span class="pl-pds">'</span></span> <span class="pl-s"><span class="pl-pds">'</span><span class="pl-pds">'</span></span>
+lorem ipsum 23</pre></div>
   </p>
 </p>
 
@@ -168,7 +173,7 @@
   </h1>
   <p align="center">A community effort to simplify <code>man</code> pages with practical examples.</p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/tldr-pages/tldr/master/images/tldr.svg" width="600" />
+    <img src="https://github.com/tldr-pages/tldr/raw/main/images/tldr-dark.png" width="600" />
   </p>
 </p>
 
@@ -208,7 +213,7 @@
   </h1>
   <p align="center">A command-line benchmarking tool.</p>
   <p align="center">
-    <img src="https://camo.githubusercontent.com/88a0cb35f42e02e28b0433d4b5e0029e52e723d8feb8df753e1ed06a5161db56/68747470733a2f2f692e696d6775722e636f6d2f7a31394f5978452e676966" width="600" />
+    <img src="https://camo.githubusercontent.com/9bac9fc730637ebd007bdc51c6ec43d1e49b6f7ed92f00e087b71ec9c175fda6/68747470733a2f2f692e696d6775722e636f6d2f7a31394f5978452e676966" width="600" />
   </p>
 </p>
 
