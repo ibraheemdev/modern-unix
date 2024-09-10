@@ -92,16 +92,6 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/ggreer/the_silver_searcher"><code>ag</code></a>
-  </h1>
-  <p align="center">A code searching tool similar to <code>ack</code>, but faster.</p>
-  <p align="center">
-    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/sona-zip/20130531/20130531223246_original.png?1370007170" width="600" />
-  </p>
-</p>
-
-<p align="center">
-  <h1 align="center">
     <a href="https://github.com/junegunn/fzf"><code>fzf</code></a>
   </h1>
   <p align="center">A general purpose command-line fuzzy finder.</p>
