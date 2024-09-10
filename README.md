@@ -286,3 +286,10 @@ lorem ipsum 23</pre></div>
     <img src="https://raw.githubusercontent.com/jesseduffield/lazygit/assets/staging.gif" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/XAMPPRocky/tokei"><code>tokei</code></a>
+  </h1>
+  <p align="center">A program that displays statistics about your code.</p>
+</p>
