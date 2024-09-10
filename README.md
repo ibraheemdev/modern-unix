@@ -259,6 +259,16 @@ lorem ipsum 23</pre></div>
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/danielgtaylor/restish"><code>restish</code></a>
+  </h1>
+  <p align="center">A CLI for REST-ish HTTP APIs, designed to work out-of-the-box with OpenAPI specifications.</p>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/478237/163693337-712e008f-be80-49da-a352-eaf10434ca83.png" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/ajeetdsouza/zoxide"><code>zoxide</code></a>
   </h1>
   <p align="center">A smarter <code>cd</code> command inspired by <code>z</code>.</p>
