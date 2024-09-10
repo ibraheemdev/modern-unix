@@ -286,3 +286,13 @@ lorem ipsum 23</pre></div>
     <img src="https://raw.githubusercontent.com/jesseduffield/lazygit/assets/staging.gif" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+      <a href="https://github.com/zellij-org/zellij"><code>zellij</code></a>
+  </h1>
+  <p align="center">A terminal multiplexer (similar to `tmux` and `screen`) taken to the next level.</p>
+  <p align="center">
+      <img src="https://raw.githubusercontent.com/zellij-org/zellij/main/assets/demo.gif" />
+  </p>
+</p>
