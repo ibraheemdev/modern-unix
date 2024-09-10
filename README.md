@@ -16,7 +16,7 @@
   </h1>
   <p align="center">A modern, maintained replacement for <code>ls</code>, built on <code><a href="https://github.com/ogham/exa">exa</a></code>.</p>
   <p align="center">
-    <img src="https://github.com/eza-community/eza/blob/main/screenshots.png" width="700" />
+    <img src="https://github.com/eza-community/eza/blob/main/docs/images/screenshots.png" width="700" />
   </p>
 </p>
 
