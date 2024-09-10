@@ -276,3 +276,13 @@ lorem ipsum 23</pre></div>
     <img src="https://raw.githubusercontent.com/mr-karan/doggo/main/www/static/doggo.png" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/jesseduffield/lazygit"><code>lazygit</code></a>
+  </h1>
+  <p align="center">A simple terminal UI for <code>git</code> commands</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/jesseduffield/lazygit/assets/staging.gif" width="700" />
+  </p>
+</p>
