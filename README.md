@@ -286,3 +286,13 @@ lorem ipsum 23</pre></div>
     <img src="https://raw.githubusercontent.com/jesseduffield/lazygit/assets/staging.gif" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/Byron/dua-cli"><code>dua</code></a>
+  </h1>
+  <p align="center">A tool to conveniently learn about the usage of disk space of a given directory.</p>
+  <p align="center">
+    <img src="https://asciinema.org/a/kDnXUOeqBxZVMoWuFNqzfpeey.svg" width="700" />
+  </p>
+</p>
