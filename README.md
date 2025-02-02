@@ -70,6 +70,7 @@
 |       [`await`][await]       | 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination. | ![_][await-ghst] ![_][await-lang] ![_][await-ghlc]                   | <img alt="await-preview" width="300" src="./screenshots/await.gif" />         |
 |   [`hyperfine`][hyperfine]   | A command-line benchmarking tool.                                                                                  | ![_][hyperfine-ghst] ![_][hyperfine-lang] ![_][hyperfine-ghlc]       | <img alt="hyperfine-preview" width="300" src="./screenshots/hyperfine.gif" /> |
 |          [`jq`][jq]          | `sed` for JSON data.                                                                                               | ![_][jq-ghst] ![_][jq-lang] ![_][jq-ghlc]                            | <img alt="jq-preview" width="300" src="./screenshots/jq.png" />               |
+|     [`visidata`][visidata]   | pager/editor for data files like CSV, json, sqlite, etc.                                                           | ![_][visidata-ghst] ![_][visidata-lang] ![_][visidata-ghlc]          | <img alt="visidata-preview" width="300" src="./screenshots/visdata.png" />               |
 
 <!--Links-->
 
@@ -331,6 +332,13 @@
 [trashy-ghlc]: https://img.shields.io/github/last-commit/oberblastmeister/trashy?label=
 [trashy-ghst]: https://img.shields.io/github/stars/oberblastmeister/trashy
 [trashy-lang]: https://img.shields.io/github/languages/top/oberblastmeister/trashy
+
+<!--visidata -->
+
+[visidata]: https://github.com/saulpw/visidata
+[visidata-ghlc]: https://img.shields.io/github/last-commit/saulpw/visidata?label=
+[visidata-ghst]: https://img.shields.io/github/stars/saulpw/visidata
+[visidata-lang]: https://img.shields.io/github/languages/top/sualpw/visidata
 
 <!--xh -->
 
