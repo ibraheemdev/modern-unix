@@ -286,3 +286,13 @@ lorem ipsum 23</pre></div>
     <img src="https://raw.githubusercontent.com/jesseduffield/lazygit/assets/staging.gif" width="700" />
   </p>
 </p>
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/rsnodgrass/aloc"><code>aloc</code></a>
+  </h1>
+  <p align="center">A fast semantic codebase analyzer with role classification, health ratios, and effort estimates.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/rsnodgrass/aloc/main/docs/example-output.png" width="700" />
+  </p>
+</p>
