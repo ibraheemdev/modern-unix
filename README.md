@@ -80,6 +80,19 @@
   </p>
 </p>
 
+
+<p align="center">
+  <h1 align="center">
+    <a href="https://github.com/sinelaw/fresh"><code>fresh</code></a>
+  </h1>
+  <p align="center">An intuitive, fast and powerful IDE for your terminal.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/docs/fresh-demo2.gif" width="600" />
+  </p>
+</p>
+
+
+
 <p align="center">
   <h1 align="center">
     <a href="https://github.com/BurntSushi/ripgrep"><code>ripgrep</code></a>
