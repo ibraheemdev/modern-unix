@@ -42,6 +42,13 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/mpryor/nothing-less"><code>nless</code></a>
+  </h1>
+  <p align="center">A TUI pager for exploring and analyzing tabular data (CSV, TSV, JSON, logs) with vi keybindings. A modern alternative to <code>less</code> for structured data.</p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/bootandy/dust"><code>dust</code></a>
   </h1>
   <p align="center">A more intuitive version of <code>du</code> written in rust.</p>
