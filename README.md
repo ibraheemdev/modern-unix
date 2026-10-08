@@ -199,6 +199,16 @@ lorem ipsum 23</pre></div>
 
 <p align="center">
   <h1 align="center">
+    <a href="https://github.com/patebry/ptop"><code>ptop</code></a>
+  </h1>
+  <p align="center">A Rust reimplementation of vtop for macOS and Linux, with dotted CPU and memory graphs and familiar controls.</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/patebry/ptop/main/docs/assets/ptop.png" alt="ptop system monitor with synthetic demonstration data" width="600" />
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href="https://github.com/sharkdp/hyperfine"><code>hyperfine</code></a>
   </h1>
   <p align="center">A command-line benchmarking tool.</p>
